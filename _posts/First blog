@@ -1,9 +1,11 @@
 ---
 layout:      post
-tietle:      这是第一篇博客
-subtile: 
-date: 2020-7-3
-author: xiezi
+title:      这是第一篇博客
+subtitle: 
+date:        2020-7-3
+author:      xiezi
+header-img: 
+catalog: true
 tags:
    -Blog
 ---
