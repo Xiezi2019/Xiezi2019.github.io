@@ -3,11 +3,11 @@ layout:     post
 title:      MVC设计模式
 subtitle:   springMVC、适配器模式
 date:       2018-10-29
-author:     xiezi
+author:     syuan
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
-    - Spring
+    -Spring
 ---
 Sychronized 和 ReetrantLock
 
