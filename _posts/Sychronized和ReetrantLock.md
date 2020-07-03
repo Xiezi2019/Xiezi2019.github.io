@@ -7,8 +7,9 @@ author:     xiezi
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
-    - 可重入锁
+- 可重入锁
 ---
+
 
 ##Sychronized 和 ReetrantLock
 
