@@ -1,8 +1,8 @@
 ---
 layout:      post
-title:      这是第一篇博客
-subtitle:   first blog
-date:        2020-7-3
+title:       这是第一篇博客
+subtitle:    first blog
+date:        2020-07-03
 author:      xiezi
 header-img: 
 catalog: true
@@ -10,5 +10,6 @@ tags:
    -Blog
 ---
 #这是以一篇博客
- 欢迎来到 xiezi's HOME 
- 这是第一篇博客
+>欢迎来到 xiezi's HOME 
+
+这是第一篇博客
