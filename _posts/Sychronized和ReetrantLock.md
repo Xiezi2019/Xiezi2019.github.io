@@ -1,15 +1,16 @@
 ---
 layout:     post
-title:      MVC设计模式
-subtitle:   springMVC、适配器模式
-date:       2018-10-29
-author:     syuan
+title:      Sychronized 和 ReetrantLock
+subtitle:   两种可重入锁
+date:       2020-07-03
+author:     xiezi
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
-    -Spring
+    -可重入锁
 ---
-Sychronized 和 ReetrantLock
+
+##Sychronized 和 ReetrantLock
 
 - 相似点
 
