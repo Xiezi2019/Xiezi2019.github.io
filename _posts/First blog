@@ -1,4 +1,4 @@
-----
+---
 layout:      post
 tietle:      这是第一篇博客
 subtile: 
@@ -6,6 +6,7 @@ date: 2020-7-3
 author: xiezi
 tags:
    -Blog
+---
 #这是以一篇博客
  欢迎来到 xiezi's HOME 
  这是第一篇博客
