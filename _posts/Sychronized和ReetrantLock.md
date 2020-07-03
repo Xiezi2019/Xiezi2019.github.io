@@ -79,5 +79,5 @@ synchronized的实现原理和应用总结
   -  当一个线程需要释放锁时，将当前结点的locked域设置为false
 
 - ————————————————
-  版权声明：本文为CSDN博主「Michaeles」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+  版权声明：本文为CSDN博主「Michaeles」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。。
   原文链接：https://blog.csdn.net/Michaeles/article/details/86501327
